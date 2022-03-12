@@ -1,6 +1,6 @@
 # Dapp Boilerplate
 
-## Built by Lee JackDay
+## Built by Thomas
 
 ## Connect Wallet implemented
 
